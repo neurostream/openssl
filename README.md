@@ -1,3 +1,5 @@
+Neurostream fork of OpenSSL to assess BMI/BCI TLS handshake use case.
+
 Welcome to the OpenSSL Project
 ==============================
 
